@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Servey</string>
+    <string name="title_activity_login">Login</string>
+    <string name="Error">Error</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_events">Events</string>
+    <string name="Loading">Loading</string>
+</resources>
